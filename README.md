@@ -6,7 +6,7 @@
 
 - 🌱 Currently working on my personal project **Chat App**
 
-- 📫 You can reach me at **pratikrajput1199@gmail.com**
+- 📫 You can reach out to me at **pratikrajput1199@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
