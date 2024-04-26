@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/pratikr61035" target="blank"><img src="https://img.shields.io/twitter/follow/pratikr61035?logo=twitter&style=for-the-badge" alt="pratikr61035" /></a> </p>
 
-- 🔭 I’m currently working on my personal project **Chat-app**
+- 🔭 Check out my latest personal project **Chat-app**
 
 - 👨‍💻 All of my projects are available at [https://portfoliowebsite-red-omega.vercel.app/](https://portfoliowebsite-red-omega.vercel.app/)
 
