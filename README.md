@@ -42,7 +42,7 @@
 
 <h4>1. Second Brain app – <em>A personal web app to save your notes, ideas, and helpful links — like a second brain.</em></h4>
 <ul>
-  <li><strong>Tech:</strong> React, Node, MongoDB</li>
+  <li><strong>Tech:</strong> MongoDB, Express, React, Node, </li>
   <li><strong>Features:</strong> Save & manage personal content, Attach useful links,Share content using public links</li>
   <li><strong>Live:</strong> <a href="https://second-brain-olive.vercel.app/" target="_blank">Demo</a></li>
   <li><strong>Code:</strong> <a href="https://github.com/prrajput1199/SecondBrain" target="_blank">Repo</a></li>
