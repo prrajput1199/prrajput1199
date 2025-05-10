@@ -1,28 +1,76 @@
-<h1 align="center">Hi 👋, I'm Pratik Rajput</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div class="screenshot">
+    <img src="https://media-hosting.imagekit.io/9167876f33384a06/GitHubCoverImage.png?Expires=1841505728&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=AepmCrUxgjk8zVaNaB08W8iik8RYSbT6tl1bBPToAdLIdqqk6pCx46R5hAKgGYCzT~g1wFMP2nadFvXeipQn7UaA~ZH6g72QyXb1SymhxwRdD0DdPnttqizU-1X7BdHsScys04gKIG3I3biotdwz~qC7c-WzEsZmlosNWux0LeFLtdhNHOa63FSRe3gD2mFN~ONSV4k9sFBBqxKwE9KPb2AG6G3gTY5TBfTIDuK237KIb~hZtpyB2OQz-La3GNOqN0Lgf8fDKncVX6uf2oUQtaas00Nl9QNR0eshzFfAZaG4GjNaW32QAAu1hu5zRbJP73J9DX6NsA1Cmh9T~bDFNQ__" alt="Course Application Screenshot">
+</div>
 
-<p align="left"> <a href="https://twitter.com/pratikr61035" target="blank"><img src="https://img.shields.io/twitter/follow/pratikr61035?logo=twitter&style=for-the-badge" alt="pratikr61035" /></a> </p>
+<h1 align="center">Hi 👋, I'm Pratik</h1>
+<h3 align="center">A passionate Fullstack Developer (MERN + Next.js)</h3>
 
-- 🔭 Check out my latest personal project **Chat-app**
-
-- 👨‍💻 All of my projects are available at [MyPortFolio](https://my-port-folio-zeta-rust.vercel.app/)
-
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **pratikrajput1199@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pratikr61035" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratikr61035" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pratik-rajput-154bb5234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratik-rajput-154bb5234" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pratik1199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pratik1199" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://my-port-folio-zeta-rust.vercel.app/" target="_blank">Portfolio</a> •
+  <a href="mailto:pratikrajput1199@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/pratikrajput11/" target="_blank">LinkedIn</a> •
+  <a href="https://x.com/its_Pratik_R" target="_blank">Twitter</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prrajput1199&show_icons=true&locale=en&layout=compact" alt="prrajput1199" /></p>
+<h2>🧠 Tech Stack</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prrajput1199&show_icons=true&locale=en" alt="prrajput1199" /></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prrajput1199&" alt="prrajput1199" /></p>
+---
+
+<h2>📌 Featured Projects</h2>
+
+<h4>1. Second Brain app – <em>A personal web app to save your notes, ideas, and helpful links — like a second brain.</em></h4>
+<ul>
+  <li><strong>Tech:</strong> React, Node, MongoDB</li>
+  <li><strong>Features:</strong> Save & manage personal content, Attach useful links,Share content using public links</li>
+  <li><strong>Live:</strong> <a href="https://second-brain-olive.vercel.app/" target="_blank">Demo</a></li>
+  <li><strong>Code:</strong> <a href="https://github.com/prrajput1199/SecondBrain" target="_blank">Repo</a></li>
+</ul>
+
+<h4>2. Eccomerce web app – <em>A modern e-commerce platform built with React and styled component for a fast, responsive shopping experience</em></h4>
+<ul>
+  <li><strong>Tech:</strong> React.js, styled component, FakeApi</li>
+  <li><strong>Features:</strong> Product Listing ,Add to cart Feature, toggle layout to switch between grid view and row view </li>
+  <li><strong>Live:</strong> <a href="https://react-eccomerce-project.vercel.app/" target="_blank">Demo</a></li>
+  <li><strong>Code:</strong> <a href="https://github.com/prrajput1199/React_eccomerce_project" target="_blank">Repo</a></li>
+</ul>
+
+---
+
+<h2>📈 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prrajput1199&show_icons=true&theme=github_dark" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prrajput1199&theme=github-dark-blue" />
+</p>
+
+---
+
+<h2>📬 Let's Connect!</h2>
+<ul>
+  <li>Email: <a href="mailto:pratikrajput1199@gmail.com">youremail@example.com</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/pratikrajput11/" target="_blank">linkedin.com/in/yourusername</a></li>
+  <li>Twitter: <a href="https://x.com/its_Pratik_R" target="_blank">@yourhandle</a></li>
+</ul>
