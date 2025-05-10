@@ -70,7 +70,7 @@
 
 <h2>📬 Let's Connect!</h2>
 <ul>
-  <li>Email: <a href="mailto:pratikrajput1199@gmail.com">youremail@example.com</a></li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/pratikrajput11/" target="_blank">linkedin.com/in/yourusername</a></li>
-  <li>Twitter: <a href="https://x.com/its_Pratik_R" target="_blank">@yourhandle</a></li>
+  <li>Email: <a href="mailto:pratikrajput1199@gmail.com">pratikrajput1199@gmail.com</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/pratikrajput11/" target="_blank">linkedin.com/in/pratikrajput11</li>
+  <li>Twitter: <a href="https://x.com/its_Pratik_R" target="_blank">x.com/its_Pratik_R</a></li>
 </ul>
