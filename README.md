@@ -40,12 +40,13 @@
 
 <h2>📌 Featured Projects</h2>
 
-<h4>1. Second Brain app – <em>A personal web app to save your notes, ideas, and helpful links — like a second brain.</em></h4>
+<h4>1. SpeakFreely(Anonymous feeback app)– <em>A personal web app to save your notes, ideas, and helpful links — like a second brain.</em></h4>
 <ul>
-  <li><strong>Tech:</strong> MongoDB, Express, React, Node, </li>
-  <li><strong>Features:</strong> Save & manage personal content, Attach useful links,Share content using public links</li>
-  <li><strong>Live:</strong> <a href="https://second-brain-olive.vercel.app/" target="_blank">Demo</a></li>
-  <li><strong>Code:</strong> <a href="https://github.com/prrajput1199/SecondBrain" target="_blank">Repo</a></li>
+  <li><strong>Tech:</strong> Next.js, MongoDB, next-auth, Framer motion, resend dev,react-hook-form,zod </li>
+  <li><strong>Features:</strong> Speak Freely is a Next.js web app that lets users receive anonymous feedback through a unique link, with email verification and AI-suggested responses. 
+  </li>
+  <li><strong>Live:</strong> <a href="https://speak-freely.vercel.app/" target="_blank">Demo</a></li>
+  <li><strong>Code:</strong> <a href="https://github.com/prrajput1199/SpeakFreely" target="_blank">Repo</a></li>
 </ul>
 
 <h4>2. Eccomerce web app – <em>A modern e-commerce platform built with React and styled component for a fast, responsive shopping experience</em></h4>
