@@ -59,7 +59,7 @@
  doctor availability, and video consultation flow</li>
   <li><strong>Live:</strong> <a href="https://health-meet-nine.vercel.app/" target="_blank">Demo</a></li>
   <li><strong>Code:</strong> <a href="https://github.com/prrajput1199/HealthMeet" target="_blank">Repo</a></li>
-  <li><strong>Code:</strong> <a href="https://www.loom.com/share/1c31ba9c665b40db828d34f0e014343f" target="_blank">Loom Video(Live Demo)</a></li>
+  <li><strong>Live Demo</strong> <a href="https://www.loom.com/share/1c31ba9c665b40db828d34f0e014343f" target="_blank">Loom Video with explanation</a></li>
     
 </ul>
 
