@@ -50,12 +50,17 @@
   <li><strong>Code:</strong> <a href="https://github.com/prrajput1199/SpeakFreely" target="_blank">Repo</a></li>
 </ul>
 
-<h4>2. Eccomerce web app – <em>A modern e-commerce platform built with React and styled component for a fast, responsive shopping experience</em></h4>
+<h4>2. HealthMeet – <em>(Doctor appointment booking system)</em></h4>
 <ul>
-  <li><strong>Tech:</strong> React.js, styled component, FakeApi</li>
-  <li><strong>Features:</strong> Product Listing ,Add to cart Feature, toggle layout to switch between grid view and row view </li>
-  <li><strong>Live:</strong> <a href="https://react-eccomerce-project.vercel.app/" target="_blank">Demo</a></li>
-  <li><strong>Code:</strong> <a href="https://github.com/prrajput1199/React_eccomerce_project" target="_blank">Repo</a></li>
+  <li><strong>Tech:</strong> Next.js, Tailwind, Shadcn UI, Prisma</li>
+  <li><strong>Features:</strong>Built A full-stack healthcare platform enabling patients to book appointments, consult doctors via video, manage
+   medical records, and use a credit-based system</li>
+  <li><strong>Features:</strong>Developed role-based dashboards for Patients, Doctors, and Admins and Implemented appointment booking,
+ doctor availability, and video consultation flow</li>
+  <li><strong>Live:</strong> <a href="https://health-meet-nine.vercel.app/" target="_blank">Demo</a></li>
+  <li><strong>Code:</strong> <a href="https://github.com/prrajput1199/HealthMeet" target="_blank">Repo</a></li>
+  <li><strong>Code:</strong> <a href="https://www.loom.com/share/1c31ba9c665b40db828d34f0e014343f" target="_blank">Loom Video(Live Demo)</a></li>
+    
 </ul>
 
 ---
