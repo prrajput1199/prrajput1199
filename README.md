@@ -40,7 +40,7 @@
 
 <h2>📌 Featured Projects</h2>
 
-<h4>2. Loopcoach (AI Interview Preparation Platform) – <em>Loopcoach is a full-stack AI mock-interview platform where users upload their resume, practice AI-driven interview sessions, and get feedback and performance analytics.</em></h4>
+<h4>1. Loopcoach (AI Interview Preparation Platform) – <em>Loopcoach is a full-stack AI mock-interview platform where users upload their resume, practice AI-driven interview sessions, and get feedback and performance analytics.</em></h4>
 <ul>
   <li><strong>Tech:</strong> React, TypeScript, Node.js, Express, PostgreSQL, Prisma, Gemini API, Firebase Auth, Razorpay, Axios, Tailwind CSS</li>
   <li><strong>Features: Google/Firebase authentication with HTTP-only cookie sessions, Resume upload and processing, AI-generated interview questions and answer evaluation using the Gemini API, Credit-based payment system with Razorpay and server-side signature verification, Transaction history, Performance analytics dashboard, Fully typed API layer covering 20+ REST endpoints</strong>
