@@ -40,14 +40,13 @@
 
 <h2>📌 Featured Projects</h2>
 
-<h4>1. SpeakFreely(Anonymous feeback app)– <em>Speak Freely is a Next.js web app that lets users receive anonymous feedback through a unique link, with email verification and AI-suggested responses..</em></h4>
+<h4>2. Loopcoach (AI Interview Preparation Platform) – <em>Loopcoach is a full-stack AI mock-interview platform where users upload their resume, practice AI-driven interview sessions, and get feedback and performance analytics.</em></h4>
 <ul>
-  <li><strong>Tech:</strong> Next.js, MongoDB, next-auth, Framer motion, resend dev,react-hook-form,zod </li>
-  <li><strong> Features: Email-based user authentication (NextAuth + Resend), Unique anonymous feedback link for each user, Dashboard to view all received feedbacks, Enable or disable feedback at any time, Real-time 
-   username availability check while typing</strong>  
+  <li><strong>Tech:</strong> React, TypeScript, Node.js, Express, PostgreSQL, Prisma, Gemini API, Firebase Auth, Razorpay, Axios, Tailwind CSS</li>
+  <li><strong>Features: Google/Firebase authentication with HTTP-only cookie sessions, Resume upload and processing, AI-generated interview questions and answer evaluation using the Gemini API, Credit-based payment system with Razorpay and server-side signature verification, Transaction history, Performance analytics dashboard, Fully typed API layer covering 20+ REST endpoints</strong>
   </li>
-  <li><strong>Live:</strong> <a href="https://speak-freely.vercel.app/" target="_blank">Demo</a></li>
-  <li><strong>Code:</strong> <a href="https://github.com/prrajput1199/SpeakFreely" target="_blank">Repo</a></li>
+  <li><strong>Live:</strong> <a href="https://github.com/prrajput1199/AI-Interview-Platform" target="_blank">Demo</a></li>
+  <li><strong>Code:</strong> <a href="https://ai-interview-platform-dusky-pi.vercel.app/" target="_blank">Repo</a></li>
 </ul>
 
 <h4>2. HealthMeet – <em>(Doctor appointment booking system)</em></h4>
